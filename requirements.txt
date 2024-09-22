@@ -1,2 +1,14 @@
 streamlit
-openai
+sentence-transformers 
+langchainhub
+pinecone-client[grpc] 
+langchain 
+langchain_community 
+unstructured 
+langchain-text-splitters 
+tiktoken
+pypdf
+groq
+sentence-transformers
+langchain-pinecone
+wikipedia-api
