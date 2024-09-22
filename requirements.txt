@@ -11,4 +11,3 @@ pypdf
 groq
 sentence-transformers
 langchain-pinecone
-wikipedia-api
